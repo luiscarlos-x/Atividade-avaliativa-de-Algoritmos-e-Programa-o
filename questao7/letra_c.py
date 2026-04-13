@@ -1,0 +1,3 @@
+T = [-10, -8, 0, 1, 2, 20, -2, -4]
+for i, v in enumerate(T):
+ print(f"Endereço: {i}, valor: {v}")
